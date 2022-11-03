@@ -1,0 +1,22 @@
+{
+  "name": "Marina",
+  "age": "37",
+  "hometown": "Mykolaiv",
+  "hobbies": ["Reading", "Cooking", "Knitting amigurumi", "Weaving bracelets"],
+  "skills": {
+    "html": 5,
+    "css": 5,
+    "js": 4,
+    "gas": 4
+  },
+  "soft_skills": [
+    "critical thinking",
+    "analytic skills",
+    "adaptability",
+    "self-education",
+    "search and analysis of information",
+    "responsibility"
+  ],
+  "professional_experience": "freelance developer",
+  "email": "orishchukmarina@gmail.com"
+}
